@@ -1,9 +1,9 @@
 <?php
 
     /*
-        PDO and class secured search
+        Basic PDO and class based search
         example by Khalid Ali, 2018-01-03
-        https://sharktallica.wordpress.com
+        https://khalidali.co.uk
 
         Code based on the search engine from
         http://pathto2265.com/
